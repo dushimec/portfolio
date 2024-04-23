@@ -50,7 +50,7 @@ const Experience = () => {
       id: 8,
       src: github,
       title: "GitHub",
-      style: "shadow-gray-400",
+      style: "shadow-gray-400 mb-24",
     },
   ];
 
