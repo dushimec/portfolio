@@ -15,7 +15,7 @@ const Home = () => {
             I'm a Backend Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-          I'm a Node.js developer with 2 years of experience in software development. 
+          I'm a backend software developer with 2 years of experience in software development. 
           I have a strong passion for building and designing software solutions, 
           particularly web applications.
           </p>
